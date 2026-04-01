@@ -2,6 +2,19 @@
 Strategic Framework for Global Paradigm Shift: Deploying JIN-OS Technological Foundations to debug the Old OS and empower Hero Pioneers across Eurasia and Africa.
 
 ---
+**Copyright © 2025-2026 JIN-ORDER-OFFICIAL & masanotakashi0308-star. All Rights Reserved.**
+
+**© 2025-2026 JIN-ORDER 総帥 / masanotakashi0308-star All Rights Reserved.**
+
+JIN-ORDERの世界観、設定、ストーリー、コンセプト、テキスト、画像、その他一切の表現およびコンテンツは、作者のオリジナル著作物です。  
+無断での複製、改変、再配布、商用利用、二次創作などを一切禁止します。
+
+This project and its entire contents—including the JIN-ORDER universe, lore, concepts, world-building, texts, and visuals—are the original intellectual property of the creator. All rights reserved.  
+No unauthorized copying, modification, redistribution, commercial use, or derivative works are permitted without explicit written permission from the author.
+
+JIN-ORDER is the definitive OS of Justice, established to reclaim the human soul from the hollow "Hope" of the elite.
+
+---
 # JIN-ORDER: Global Paradigm Shift & Reconstruction
 
 Welcome to the official repository of the JIN-ORDER project.
