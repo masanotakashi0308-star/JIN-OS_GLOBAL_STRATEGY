@@ -30,6 +30,24 @@ A strategic framework to bypass the current power dynamic (Old OS) and establish
 
 * **India & Global South Axis**: Using existing frameworks (BRICS, G77, IBSA) to update Global South with JIN-OS.
 
+---
+
+* **[JIN-OS Technical Specification](./docs/JIN-OS_Technical_Spec.md)**
+    * *Details on ZONE 1-3: Energy, Resources, and Agriculture.*
+    * JIN-OS技術仕様書：エネルギー・資源・食料の完全自立。
+
+* **[Hero Pioneer Protocol](./docs/Hero_Pioneer_Protocol.md)**
+    * *The definitive plan for Global South reconstruction.*
+    * 英雄開拓者プロトコル：グローバルサウス救済の決定版。
+
+* **[JIN Frontier Code](./docs/JIN_Frontier_Code.md)**
+    * *Legal framework for Digital Citizenship and social justice.*
+    * JIN開拓地特別法：新パラダイムのための法典。
+
+
+
+
+---
 ## Current Deployment: Mediterranean Command
 
 We are currently establishing the "Mediterranean Command" in Southern Italy (Palermo), focusing on:
