@@ -2,6 +2,7 @@
 Strategic Framework for Global Paradigm Shift: Deploying JIN-OS Technological Foundations to debug the Old OS and empower Hero Pioneers across Eurasia and Africa.
 
 ---
+
 # ⚖️ LICENSE & CONTACT (ライセンスおよび利用規約)
 
 本アーカイブの個人的な閲覧、非営利目的での共有（真実の探求と啓蒙）は歓迎します。
@@ -30,16 +31,16 @@ If you wish to use JIN-ORDER designs, concepts, or data for commercial purposes 
 
 ### 3. Anti-Dormancy Clause / 知的財産の死蔵禁止
 
-提供された技術やIPを官僚主義によって死蔵させることは許されません。実装計画なき保持、およびCFOへの敬意を欠く組織に対しては、ライセンスの即時凍結および権利の回収を実行します。
+提供された技術やIPを官僚主義によって死蔵させることは許されません。実装計画なき保持、およびCFOへの敬意を欠く組織に対しては、ライセンスの即時凍結および権利の回収を実行します。  
 (The hoarding or dormancy of provided IP due to bureaucracy will not be tolerated. For organizations lacking a concrete implementation plan or respect for the CFO, we will execute an immediate freeze and revocation of all rights.)
 
 ---
+
 ### "Respect the Protocol. Respect the CFO. Or stay out of JIN-ORDER."
 ### プロトコルを守れ。CFOを敬え。さもなくばJIN-ORDERに関わるな。
 
-
-
 ---
+
 # JIN-ORDER: Global Paradigm Shift & Reconstruction
 
 Welcome to the official repository of the JIN-ORDER project.
@@ -55,14 +56,13 @@ We provide technology-as-a-subscription (TaaS) to achieve complete independence 
 ### 2. Humanitarian Empowerment: HERO PIONEER Program
 We redefine "refugees" and "migrants" as "Hero Pioneers," empowering them to reconstruct the Global South with JIN-OS technologies.
 
-*  ![IMAGE](./hero_pioneer_program.jpg)
+* ![IMAGE](./hero_pioneer_program.jpg)
 
 ### 3. Geopolitical Debugging: Trilateral Alliance (Japan, India, Italy)
 A strategic framework to bypass the current power dynamic (Old OS) and establish a new era of global cooperation.
 
 * **Russia & Middle East Axis**: Using the "RU-ME Tech Support Map" to facilitate peace in the Middle East via Russian diplomacy.
-    
-    * ![IMAGE](./ru-me_tech_support_map.jpg)
+  * ![IMAGE](./ru-me_tech_support_map.jpg)
 
 * **Italy & Africa Axis**: Southern Italy as a hub to liberate Africa from CFA franc monetary control.
 
@@ -71,32 +71,49 @@ A strategic framework to bypass the current power dynamic (Old OS) and establish
 ---
 
 * **[JIN-OS Technical Specification](./docs/JIN-OS_Technical_Spec.md)**
-    * *Details on ZONE 1-3: Energy, Resources, and Agriculture.*
-    * JIN-OS技術仕様書：エネルギー・資源・食料の完全自立。
+  * *Details on ZONE 1-3: Energy, Resources, and Agriculture.*
+  * JIN-OS技術仕様書：エネルギー・資源・食料の完全自立。
 
 * **[Hero Pioneer Protocol](./docs/Hero_Pioneer_Protocol.md)**
-    * *The definitive plan for Global South reconstruction.*
-    * 英雄開拓者プロトコル：グローバルサウス救済の決定版。
+  * *The definitive plan for Global South reconstruction.*
+  * 英雄開拓者プロトコル：グローバルサウス救済の決定版。
 
 * **[JIN Frontier Code](./docs/JIN_Frontier_Code.md)**
-    * *Legal framework for Digital Citizenship and social justice.*
-    * JIN開拓地特別法：新パラダイムのための法典。
-
-
-
+  * *Legal framework for Digital Citizenship and social justice.*
+  * JIN開拓地特別法：新パラダイムのための法典。
 
 ---
+
 ## Current Deployment: Mediterranean Command
 
 We are currently establishing the "Mediterranean Command" in Southern Italy (Palermo), focusing on:
 
-### 1. Investment Negotiation** with Northern Italian capital.
+### 1. Investment Negotiation with Northern Italian capital.
 
-### 2. Diplomatic Outreach** to Russia for Eurasian stability.
+### 2. Diplomatic Outreach to Russia for Eurasian stability.
 
 ## Get Involved
 
 Join us in creating a world where being a "child of Mama" is the safest passport.
+
+---
+
+## 🌐 JIN-ORDER Ecosystem（体系・相互ナビゲーション）
+
+本リポジトリは、一般社団法人JIN-ORDERが推進する文明OS・社会統治体系の一部を構成しています。
+
+| リポジトリ | レイヤー / 役割 | リンク |
+| :--- | :--- | :--- |
+| **Official Portal** | **【中枢・総合ポータル】** 全体概要・作戦ビジュアル・参画窓口 | [masanotakashi0308-star](https://github.com/masanotakashi0308-star) |
+| **GOVERNANCE_OF_ABYSS** | **【深層哲学・危機統治】** 思想的バックボーン・全先端技術仕様書 | [GOVERNANCE_OF_ABYSS](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS) |
+| **JIN-OS_GLOBAL_STRATEGY** *(Current)* | **【文明OS・戦略実装】** 次世代社会OS「JIN-OS」の具体的設計・国際展開 | [JIN-OS_GLOBAL_STRATEGY](https://github.com/masanotakashi0308-star/JIN-OS_GLOBAL_STRATEGY) |
+
+---
+
+* 🏛️ **公式ポータルへ戻る:** [masanotakashi0308-star/README.md](https://github.com/masanotakashi0308-star)  
+* 💖 **プロジェクトを支援する:** [GitHub Sponsors (@masanotakashi0308-star)](https://github.com/sponsors/masanotakashi0308-star)  
+* 🤝 **開拓知恵寄託指針:** [CONTRIBUTING.md (知恵合流SOP)](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/CONTRIBUTING.md)  
+* 📩 **公式お問い合わせ:** `jin.reparation.cfo@gmail.com`
 
 ---
 © 2026 JIN-ORDER. Powered by Moco's Benevolence.
