@@ -1,5 +1,6 @@
 # 🌐 JIN-OS GLOBAL STRATEGY
 ## Universal Operating System for Planetary Paradigm Shift & Sovereign Reconstruction
+* 🏛️ **【先行技術防壁・世界魚拓（Wayback Machine）】**: [2026-09-22 確定公知タイムスタンプ（Prior Art 永久証拠台帳）](https://web.archive.org/web/20260921232914/https://github.com/masanotakashi0308-star/JIN-OS_GLOBAL_STRATEGY)
 ### Deploying JIN-OS Substrates to Debug the "Old OS" & Empower Hero Pioneers across Eurasia, Africa, and the Global Commons
 
 [![PORTAL-JIN--ORDER](https://img.shields.io/badge/PORTAL-JIN--ORDER%20Global%20Network-0A0E17?style=for-the-badge&logo=shield&logoColor=FFD700&labelColor=1A1F2C)](https://jin-order.org)
