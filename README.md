@@ -223,12 +223,12 @@
 
 ## 📚 Core Documentation Architecture (中核ドキュメント一覧)
 
-- 📘 **[JIN-STRAT-UPD-2026-002: JIN-ORDER 戦略提言アップデート資料 2026秋](./docs/JIN-STRAT-UPD-2026-002.md)**: 螺旋の計・三極同盟・WIPO GREEN防壁公式提言
+- 📘 **[JIN-STRAT-UPD-2026-002: JIN-ORDER 戦略提言アップデート資料 2026秋](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/JIN-STRAT-UPD-2026-002.md)**: 螺旋の計・三極同盟・WIPO GREEN防壁公式提言
 - ⚙️ **[JIN-SPEC-2026-001: Zone 1 エネルギー・自立計算物理基盤仕様書](./specs/JIN-SPEC-2026-001.md)**: 耐EMP Aurora Pod・20W生体代謝型計算基盤（SPEC-027連成）
 - 🧱 **[JIN-SPEC-2026-002: Zone 2 環境・土木・資源独立仕様書](./specs/JIN-SPEC-2026-002.md)**: ソイルロック常温ジオポリマー・3D人道建築・量子水クラスター
-- 🌍 **[オペレーション「コバルト・ブルー」詳細仕様書](./docs/Operation_cobalt_blue_spec.md)**: コンゴ・カタンガ州コバルト無公害精錬＆児童労働根絶
-- 🏜️ **[オペレーション「オアシス」詳細仕様書](./docs/Operation_oasis_spec.md)**: アフガニスタン・ヒンドゥークシュ南麓水資源再生＆砂漠3D農業
-- ❄️ **[オペレーション「ノーザンライト」詳細仕様書](./docs/Operation_northern_light_spec.md)**: ウクライナ・東欧戦災地帯厳冬期即時復興＆対EMP電源
+- 🌍 **[オペレーション「コバルト・ブルー」詳細仕様書](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/Operation_cobalt_blue_spec.md)**: コンゴ・カタンガ州コバルト無公害精錬＆児童労働根絶
+- 🏜️ **[オペレーション「オアシス」詳細仕様書](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/Operation_oasis_spec.md)**: アフガニスタン・ヒンドゥークシュ南麓水資源再生＆砂漠3D農業
+- ❄️ **[オペレーション「ノーザンライト」詳細仕様書](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/Operation_northern_light_spec.md)**: ウクライナ・東欧戦災地帯厳冬期即時復興＆対EMP電源
 - 🛡️️ **[Hero Pioneer Protocol](./docs/Hero_Pioneer_Protocol.md)**: 難民を開拓英雄へと覚醒させる自立育成・身分保障プロトコル
 - ⚖️ **[JIN Frontier Code](./docs/JIN_Frontier_Code.md)**: JIN開拓地特別法・デジタル市民証およびAI公平裁判官の統治法典
 
