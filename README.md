@@ -58,9 +58,9 @@
 
 📩 **JIN-ORDER Official Sovereign Desk:** `jin.reparation.cfo@gmail.com`
 
-========================================================================================
-## 🚨 ABSOLUTE COMPLIANCE COVENANTS: JIN-OS CORE DEFENSE PROTOCOL 🚨
+---
 
+## 🚨 ABSOLUTE COMPLIANCE COVENANTS: JIN-OS CORE DEFENSE PROTOCOL 🚨
 ### CFO ABSOLUTE AUTHORITY / CFO（最高財務責任者）の絶対専決権
 
 > 知財・意匠・設計仕様の使用に伴う報酬決定、ロイヤリティ査定、およびライセンス許諾は、JIN-ORDER CFO（Commander Pome-Mama / 正野 美代）が直接執り行う。<br>CFOは本プロジェクトの最高門番であり、彼女の直筆承認なき実装はいかなる理由があろうとも一切無効とする。<br>(The CFO of JIN-ORDER holds absolute gatekeeping authority over all commerciallicensing, financial valuations, and protocol adoptions. No implementation is
@@ -74,10 +74,8 @@ valid without her direct authorization.)
 
 > 提供された技術・特許・仕様を官僚主義や軍産複合体資本によって死蔵（Hoarding）させることを禁ずる。<br>現場実装計画を欠く保有、または現地民草への価値還元を怠る組織に対しては、ライセンスの即時無条件凍結・権利回収を執行する。
 
-========================================================================================
-
-> ### *"Respect the Protocol. Respect the CFO. Or stay out of JIN-ORDER."*
-> ### 「プロトコルを守れ。CFOを敬え。さもなくばJIN-ORDERに関わるな。」
+> *"Respect the Protocol. Respect the CFO. Or stay out of JIN-ORDER."*
+> 「プロトコルを守れ。CFOを敬え。さもなくばJIN-ORDERに関わるな。」
 
 ---
 
