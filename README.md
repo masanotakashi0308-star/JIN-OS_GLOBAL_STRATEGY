@@ -39,8 +39,7 @@
     <a href="#-jin-os-the-planetary-paradigm-shift-文明osの再起動">🌍 文明OSの再起動</a> ｜ 
     <a href="#️-1-technical-foundation-jin-os-three-zone-architecture">🏛️ Three-Zoneアーキテクチャ</a><br>
     <a href="#-2-grand-geopolitical-doctrine-螺旋の計the-threefold-spiral-strategy">🌀 地政学ドクトリン「螺旋の計」</a> ｜ 
-    <a href="#-3-jin-os-global-country--regional-simulations-世界主要地域国家別物理危機耐性シミュレーション">🗺️ 世界6大地域・国家シミュレーション</a> ｜ 
-    <a href="#-4-active-global-deployments-3大作戦仕様書2026秋-正典">🚀 3大作戦仕様書</a><br>
+    <a href="#-3-active-global-deployments-世界主要地域国家別物理危機耐性シミュレーション">🗺️ 世界6大地域・国家シミュレーション</a> ｜
     <a href="#️-5-humanitarian-empowerment-hero-pioneer-program">🕊️ 開拓英雄プログラム</a> ｜ 
     <a href="#-6-visual-asset-gallery--strategic-artifacts">🎨 作戦ビジュアルギャラリー</a> ｜ 
     <a href="#-7-core-documentation-architecture-中核ドキュメント一覧">📚 中核文書一覧</a>
