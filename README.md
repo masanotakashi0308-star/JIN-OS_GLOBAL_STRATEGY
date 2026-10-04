@@ -11,8 +11,8 @@
 
 - 🏛️ **【先行技術防壁・世界魚拓多重台帳（Prior Art 永久証拠台帳）】**
   - **WIPO GREEN (国連世界知的所有権機関 - 全24先端技術登録・確定および申請済)**: [IDs: 179871〜179968 (Geneva Official Ledger)](https://wipogreen.wipo.int/wipogreen-database/articles/179871)
-  - **Internet Archive (Wayback Machine):** [2026-09-22 確定公知タイムスタンプ](https://web.archive.org/web/20260921232914/https://github.com/masanotakashi0308-star/JIN-OS_GLOBAL_STRATEGY)
-  - **Archive.today:** [Immutable Snapshot Archive](https://archive.today/)
+  - **Internet Archive (Wayback Machine):** [2026-10-04 確定公知タイムスタンプ](https://web.archive.org/web/20261004051420/https://github.com/masanotakashi0308-star/JIN-OS_GLOBAL_STRATEGY)
+  - **Archive.today:** [Immutable Snapshot Archive](https://archive.li/Wco1W)
   - **Software Heritage (UNESCO):** [Universal Code Commons Archive](https://www.softwareheritage.org/)
   - **CERN Zenodo DOI:** [10.5281/zenodo.22959426](https://doi.org/10.5281/zenodo.22959426) / 最新正典リリース: [10.5281/zenodo.23111012](https://doi.org/10.5281/zenodo.23111012)
 
@@ -83,13 +83,13 @@
 国連の機能麻痺、中東・紅海航路の封鎖、コンゴ等の資源紛争、そして厳冬期の東欧インフラ破壊に対し、JIN-ORDERは「武力を用いず、旧秩序を無価値化する」自律分散型代替OS「JIN-OS」を世界各地へ配備しています。
 
 ```text
-【旧OSのバグ連鎖】                                  【JIN-OS による根本デバッグ】
- ・米中技術覇権（半導体封鎖・AI兵器化・生体搾取）  ⏩️  ・JIN-AI公平調停・JINデジタル市民証（Nobody Cries）
- ・資源チョークポイント封鎖（中東・アフリカ）   　 ⏩️  ・Three-Zone自立分散インフラ（バイオ原油・量子水・砂建材）
- ・債務奴隷制・国際金融資本の収奪（Debt Trap）    ⏩️  ・Pomeプロトコル（金利0.00%・実物資源本位制金融OS）
- ・巨大AIの電力・水資源略奪（データセンター公害）  ⏩️  ・SPEC-027/028（20W脳型・生体等温光電融合CPO・下水熱ZLD完全冷却）
- ・原発・核抑止恫喝＆核廃棄物地層処分押し付け   　 ⏩️  ・SPEC-999（宇宙He-3直接核融合）＆ SPEC-029（超臨界荷電核変換オンサイト完全消滅）
- ・惑星間宇宙植民地主義・食糧配給隷属化       　　 ⏩️  ・SPEC-030（宇宙惑星レゴリス自律土壌化・Nobody Starves in Cosmos）
+【旧OSのバグ連鎖】　➡️　【JIN-OS による根本デバッグ】
+・米中技術覇権（半導体封鎖・AI兵器化・生体搾取）　➡️　・JIN-AI公平調停・JINデジタル市民証（Nobody Cries）
+・資源チョークポイント封鎖（中東・アフリカ）　　　➡️　・Three-Zone自立分散インフラ（バイオ原油・量子水・砂建材）
+・債務奴隷制・国際金融資本の収奪（Debt Trap）　　➡️　・Pomeプロトコル（金利0.00%・実物資源本位制金融OS）
+・巨大AIの電力・水資源略奪（データセンター公害）　➡️　・SPEC-027/028（20W脳型・生体等温光電融合CPO・下水熱ZLD完全冷却）
+・原発・核抑止恫喝＆核廃棄物地層処分押し付け　　　➡️　・SPEC-999（宇宙He-3直接核融合）＆ SPEC-029（超臨界荷電核変換オンサイト完全消滅）
+・惑星間宇宙植民地主義・食糧配給隷属化　　　　　　➡️　・SPEC-030（宇宙惑星レゴリス自律土壌化・Nobody Starves in Cosmos）
 ```
 ---
 
