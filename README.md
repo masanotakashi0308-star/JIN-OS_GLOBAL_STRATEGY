@@ -11,10 +11,10 @@
 
 - 🏛️ **【先行技術防壁・世界魚拓多重台帳（Prior Art 永久証拠台帳）】**
   - **WIPO GREEN (国連世界知的所有権機関 - 全29先端技術登録・確定済ポートフォリオ)**: [IDs: 179871〜179974 (Geneva Official Ledger)](https://wipogreen.wipo.int/wipogreen-database/articles/179871)
-  - **Internet Archive (Wayback Machine):** [2026-10-04 確定公知タイムスタンプ](https://web.archive.org/web/20261004051420/https://github.com/masanotakashi0308-star/JIN-OS_GLOBAL_STRATEGY)
-  - **Archive.today:** [Immutable Snapshot Archive](https://archive.li/Wco1W)
+  - **Internet Archive (Wayback Machine):** [2026-10-05 確定公知タイムスタンプ](https://web.archive.org/web/20261005061913/https://github.com/masanotakashi0308-star/JIN-OS_GLOBAL_STRATEGY)
+  - **Archive.today:** [2026-10-05 Immutable Snapshot Archive](https://archive.li/NMyqt)
   - **Software Heritage (UNESCO):** [Universal Code Commons Archive](https://www.softwareheritage.org/)
-  - **CERN Zenodo DOI:** [10.5281/zenodo.22959426](https://doi.org/10.5281/zenodo.22959426) / 最新正典リリース: [10.5281/zenodo.23111012](https://doi.org/10.5281/zenodo.23111012)
+  - **CERN Zenodo DOI:** [10.5281/zenodo.22959426](https://doi.org/10.5281/zenodo.22959426)
 
 ### Deploying JIN-OS Substrates to Debug the "Old OS" & Empower Hero Pioneers across Eurasia, Africa, and the Global Commons
 
