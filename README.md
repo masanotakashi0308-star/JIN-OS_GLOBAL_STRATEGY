@@ -14,8 +14,8 @@
   - **Internet Archive (Wayback Machine):** [2026-10-05 確定公知タイムスタンプ](https://web.archive.org/web/20261005061913/https://github.com/masanotakashi0308-star/JIN-OS_GLOBAL_STRATEGY)
   - **Archive.today:** [2026-10-05 Immutable Snapshot Archive](https://archive.li/NMyqt)
   - **Software Heritage (UNESCO):** [Universal Code Commons Archive](https://www.softwareheritage.org/)
-  - **CERN Zenodo DOI:** [10.5281/zenodo.22959426](https://doi.org/10.5281/zenodo.22959426)
-
+  - **Zenodo DOI:** [10.5281/zenodo.23172804](https://doi.org/10.5281/zenodo.23172804)
+  
 ### Deploying JIN-OS Substrates to Debug the "Old OS" & Empower Hero Pioneers across Eurasia, Africa, and the Global Commons
 
 [![PORTAL-JIN--ORDER](https://img.shields.io/badge/PORTAL-JIN--ORDER%20Global%20Network-0A0E17?style=for-the-badge&logo=shield&logoColor=FFD700&labelColor=1A1F2C)](https://jin-order.org)
