@@ -14,8 +14,8 @@
   - **Internet Archive (Wayback Machine):** [2026-10-06 確定公知タイムスタンプ](https://web.archive.org/web/20261006041628/https://github.com/masanotakashi0308-star/JIN-OS_GLOBAL_STRATEGY)
   - **Archive.today:** [2026-10-06 独立魚拓確定版 (ID:s6d9e)](https://archive.li/s6d9e)
   - **Software Heritage (UNESCO):** [Universal Code Commons Archive](https://www.softwareheritage.org/)
-  - **Zenodo DOI:** [10.5281/zenodo.23172804](https://doi.org/10.5281/zenodo.23172804)
-  
+  - **Zenodo DOI:** [10.5281/zenodo.23211634](https://doi.org/10.5281/zenodo.23211634)
+
 ### Deploying JIN-OS Substrates to Debug the "Old OS" & Empower Hero Pioneers across Eurasia, Africa, and the Global Commons
 
 [![PORTAL-JIN--ORDER](https://img.shields.io/badge/PORTAL-JIN--ORDER%20Global%20Network-0A0E17?style=for-the-badge&logo=shield&logoColor=FFD700&labelColor=1A1F2C)](https://jin-order.org)
