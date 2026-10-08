@@ -10,11 +10,13 @@
 ## Universal Operating System for Planetary Paradigm Shift & Sovereign Reconstruction
 
 - 🏛️ **【先行技術防壁・世界魚拓多重台帳（Prior Art 永久証拠台帳）】**
-  - **WIPO GREEN (国連世界知的所有権機関 - 全33先端技術登録・確定済ポートフォリオ)**: [IDs: 179871〜180051 (Geneva Official Ledger)](https://wipogreen.wipo.int/wipogreen-database/articles/180051)[cite: 21]
+  - **WIPO GREEN (国連世界知的所有権機関 - 全33先端技術登録・確定済ポートフォリオ)**: [IDs: 179871〜180051 (Geneva Official Ledger)](https://wipogreen.wipo.int/wipogreen-database/articles/180051)
   - **Internet Archive (Wayback Machine):** [2026-10-06 確定公知タイムスタンプ](https://web.archive.org/web/20261006041628/https://github.com/masanotakashi0308-star/JIN-OS_GLOBAL_STRATEGY)
   - **Archive.today:** [2026-10-06 独立魚拓確定版 (ID:s6d9e)](https://archive.li/s6d9e)
   - **Software Heritage (UNESCO):** [Universal Code Commons Archive](https://www.softwareheritage.org/)
-  - **Zenodo DOI:** [10.5281/zenodo.23211634](https://doi.org/10.5281/zenodo.23211634)
+  - **Zenodo DOI:** [10.5281/zenodo.23227174](https://doi.org/10.5281/zenodo.23227174)
+
+---
 
 ### Deploying JIN-OS Substrates to Debug the "Old OS" & Empower Hero Pioneers across Eurasia, Africa, and the Global Commons
 
