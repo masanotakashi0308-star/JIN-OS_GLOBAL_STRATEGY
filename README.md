@@ -11,10 +11,10 @@
 
 - 🏛️ **【先行技術防壁・世界魚拓多重台帳（Prior Art 永久証拠台帳）】**
   - **WIPO GREEN (国連世界知的所有権機関 - 全34先端技術登録・確定済ポートフォリオ)**: [IDs: 179871〜180061 (Geneva Official Ledger)](https://wipogreen.wipo.int/wipogreen-database/articles/180061)
-  - **Internet Archive (Wayback Machine):** [2026-10-08 確定公知タイムスタンプ](https://web.archive.org/web/20261008062931/https://github.com/masanotakashi0308-star/JIN-OS_GLOBAL_STRATEGY)
-  - **Archive.today:** [2026-10-08 独立魚拓確定版 (ID:0S6Cy)](https://archive.li/0S6Cy)
+  - **Internet Archive (Wayback Machine):** [2026-10-09 確定公知タイムスタンプ](https://web.archive.org/web/20261009111121/https://github.com/masanotakashi0308-star/JIN-OS_GLOBAL_STRATEGY)
+  - **Archive.today:** [2026-10-09 独立魚拓確定版 (ID:odnBg)](https://archive.li/odnBg)
   - **Software Heritage (UNESCO):** [Universal Code Commons Archive](https://www.softwareheritage.org/)
-  - **Zenodo DOI:** [10.5281/zenodo.23227174](https://doi.org/10.5281/zenodo.23227174)
+  - **Zenodo DOI:** [10.5281/zenodo.23239626](https://doi.org/10.5281/zenodo.23239626)
 
 ---
 
