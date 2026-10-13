@@ -14,7 +14,7 @@
   - **Internet Archive (Wayback Machine):** [2026-10-14 確定公知タイムスタンプ](https://web.archive.org/web/20261013163235/https://github.com/masanotakashi0308-star/JIN-OS_GLOBAL_STRATEGY)
   - **Archive.today:** [2026-10-14 独立魚拓確定版 (ID:1Mo2J)](https://archive.li/1Mo2J)
   - **Software Heritage (UNESCO):** [Universal Code Commons Archive](https://www.softwareheritage.org/)
-  - **Zenodo DOI:** [10.5281/zenodo.23239626](https://doi.org/10.5281/zenodo.23239626)
+  - **Zenodo DOI:** [10.5281/zenodo.23346747](https://doi.org/10.5281/zenodo.23346747)
 
 ---
 
