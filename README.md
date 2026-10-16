@@ -85,7 +85,7 @@
 
 2026年10月中旬、**IMF（国際通貨基金：10月15日 *"The World Can't Afford to Get AI Wrong"*）**、**IRENA（国際再生可能エネルギー機関：10月13日 *"Accelerating Electrification through 2035"*）**、および**国連経済社会局（UN DESA：10月15日『世界社会報告書2026』）**が発表したグローバルレポートは、JIN-OSが展開する自律分散・物理資源循環モデルの完全な正当性を証明しました。**JIN-OS V13.2**では、このマクロ危機に対応する以下の3大統治モジュールをグローバル戦略の中核に据えて実装を加速します。
 
-- **Module A (Compute-Utility Thermodynamic Symbiosis / 演算・都市水脈熱力学共生):** ハイパースケールAIデータセンターによる系統送電網の共食い（$\psi_{cannibalization}$）と冷却水不足を防ぐため、[`自治体エネルギー防衛条例 V8.3`](./docs/MUNICIPAL_ENERGY_DEFENSE_ORDINANCE_2026.md)および[`GLOBAL_ASI_HEGEMONY_MAP V8.3`](./docs/GLOBAL_ASI_HEGEMONY_MAP_V8.3.md)に基づき、20W生体代謝計算ノード（Living Silicon）と都市下水共同溝のZLD熱交換パイプを直結。演算排熱の80%以上を下水汚泥消化槽・施設園芸・融雪へ還流させない施設の立地をGSI 2.0審査で物理排除。
+- **Module A (Compute-Utility Thermodynamic Symbiosis / 演算・都市水脈熱力学共生):** ハイパースケールAIデータセンターによる系統送電網の共食い（$\psi_{cannibalization}$）と冷却水不足を防ぐため、[`自治体エネルギー防衛条例 V8.3`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/MUNICIPAL_ENERGY_DEFENSE_ORDINANCE_2026.md)および[`GLOBAL_ASI_HEGEMONY_MAP V8.3`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/GLOBAL_ASI_HEGEMONY_MAP_V8.3.md)に基づき、20W生体代謝計算ノード（Living Silicon）と都市下水共同溝のZLD熱交換パイプを直結。演算排熱の80%以上を下水汚泥消化槽・施設園芸・融雪へ還流させない施設の立地をGSI 2.0審査で物理排除。
 
 - **Module B (Non-Punitive Physical Resource Accounting / 非懲罰的物理資源会計):** 金融的カーボンクレジット（排出権取引ETS）のマネーゲームを排し、土木・環境インフラにおける「物理的資源回収・創出量（再生水L・回収リンkg・固定炭素t・路盤耐久年数延長年数）」を直接査定・相殺する「J-PRL分散型物理資源台帳」（SPEC-028-PROT）をグローバル標準として展開。
 
