@@ -89,7 +89,8 @@
 
 - **Module B (Non-Punitive Physical Resource Accounting / 非懲罰的物理資源会計):** 金融的カーボンクレジット（排出権取引ETS）のマネーゲームを排し、土木・環境インフラにおける「物理的資源回収・創出量（再生水L・回収リンkg・固定炭素t・[`SPEC-029`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-029_BIO_ISOTHERMAL_OPTOELECTRONIC_NUCLEAR_TRANSMUTATION_PROTOCOL.md)光核反応量子錬金術による精製貴金属/レアメタルg・路盤耐久年数延長年数）」を直接査定・相殺する「J-PRL分散型物理資源台帳」（SPEC-028-PROT）をグローバル標準として展開。
 
-- **Module C (Municipal Civil Foundation Resilience / 基礎自治体・生活道路網強靭化):** 国連『世界社会報告書2026』が警鐘を鳴らす移行期のインフラ崩壊・格差拡大を防ぐため、[`SPEC-039`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-039_HELIUM_COUPLED_IGS_ELEMENTAL_TOMOGRAPHY_AND_TAGLESS_RESCUE_PROTOCOL.md)（ヘリウム励起IGS多重散乱逆解析による共同溝鉄筋腐食・$\text{NaCl/H}_2\text{S}$化学浸透3D透視＆タグ不要瓦礫下深部救命）、[`JIN_WATER_INFRASTRUCTURE.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/JIN_WATER_INFRASTRUCTURE.md)（市民型自立分散給水ノード「シチズン・シールドMVP」による断水・民営化無効化）、生活道路網の非開削バイオグラウト修復、地下埋設物境界管理、および部門横断（道路・下水・税務・経済）の統合便益評価マトリクス（真実のB/C評価）を標準化。
+- **Module C (Municipal Civil Foundation Resilience / 基礎自治体・生活道路網強靭化):** 国連『世界社会報告書2026』が警鐘を鳴らす移行期のインフラ崩壊・格差拡大を防ぐため、[`SPEC-039`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-039_HELIUM_COUPLED_IGS_ELEMENTAL_TOMOGRAPHY_AND_TAGLESS_RESCUE_PROTOCOL.md)（ヘリウム励起IGS多重散乱逆解析による共同溝鉄筋腐食・$\text{NaCl/H}_2\text{S}$化学浸透3D透視＆タグ不要瓦礫下深部救命）、<br>
+[`JIN_WATER_INFRASTRUCTURE.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/JIN_WATER_INFRASTRUCTURE.md)（市民型自立分散給水ノード「シチズン・シールドMVP」による断水・民営化無効化）、生活道路網の非開削バイオグラウト修復、地下埋設物境界管理、および部門横断（道路・下水・税務・経済）の統合便益評価マトリクス（真実のB/C評価）を標準化。
 
 ---
 
