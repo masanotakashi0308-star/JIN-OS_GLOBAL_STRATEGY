@@ -102,6 +102,7 @@
 
 ```text
 【既存システムの構造的課題】 ➡️ 【JIN-OS による工学的・制度的ソリューション】
+
  ・巨大クラウドへの一極集中・APIキルスイッチ脅迫 ➡️ 耐タンパー性市民計算ノード（JIN-Node）＆ローカル自律推論網（SPEC-004 / SPEC-005 / SPEC-021）
  ・リチウム/コバルト/銅の資源独占・固体電池の地震剥離 ➡️ ジン・ドラゴン電池V3（DCN×リン酸エステル化CNF自己修復・海水NCO×両面アルミ箔・木質100%アモルセル®封止 SPEC-001 / 004）
  ・道路陥没・共同溝腐食と瓦礫下捜索のICタグ依存 ➡️ SPEC-039（ヘリウム結合IGS逆解析3D元素透視：鉄筋腐食・NaCl/H2S浸透診断＆タグ不要深部救命）＆ JIN-リビングロード
@@ -235,9 +236,9 @@
 - 📢 **[MANIFESTO.md: JIN-ORDER MANIFESTO V8.3（仁秩序統合大宣言）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/MANIFESTO.md)**: 2026秋大統合正典。民草の覚醒、基盤層ゼロ、シビル・インフラ主権、反「計算租界」・反「キルスイッチ」、対Spore AI免疫検疫
 - 🗺️ **[GLOBAL_ASI_HEGEMONY_MAP V8.3: 全球ASI覇権地図 V8.3](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/GLOBAL_ASI_HEGEMONY_MAP_V8.3.md)**: 物理的ハードキャップ（GSI 2.0）、計算租界ペナルティ（$\omega_{sovereignty}$）、基盤層ゼロ、同盟負担転嫁構造分析、沖縄トラフ深海防衛（SSCN-01）
 - 🏛️ **[MUNICIPAL_ENERGY_DEFENSE_ORDINANCE_2026.md: 自治体エネルギー防衛及びインフラ共生モデル条例案 V8.3](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/MUNICIPAL_ENERGY_DEFENSE_ORDINANCE_2026.md)**: GSI 2.0審査、道路法第32条共同溝、下水熱ZLD循環、排熱80%農業還元、耐タンパー性市民計算ノード（JIN-Node）、道路法第71条監督処分
-- ⚡ **[JIN-SPEC-2026-001: 自律分散エネルギー・通信防衛仕様書（V13.5）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/specs/JIN-SPEC-2026-001.md)**: チョークポイント・海底ケーブル無力化、ジン・ドラゴン電池V3路傍キオスク、和紙RO水循環直流直結、アフォーダビリティ防衛（Module A & D）[cite: 2, 3, 9, 10]
-- ⛏️ **[JIN-SPEC-2026-004: 都市鉱山・重要資源自律循環仕様（V13.5）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/specs/JIN_CRITICAL_MINERAL_CIRCULARITY_SPEC.md)**: E-waste常温バイオ浸出、海水NCO正極＆両面アルミ集電体（脱リチウム/コバルト/銅）、リン酸エステル化CNF（脱PFAS結着）、木質100%アモルセル®装甲、ZKパスポート（Module D）[cite: 4, 5, 9, 15]
-- 💧 **[JIN_WATER_INFRASTRUCTURE.md: 自律水利・上下水道主権防衛 ＆ シチズン・シールドMVP仕様書](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_WATER_INFRASTRUCTURE.md)**: 水道コンセッション阻止、生活排水・深層井戸ハイブリッド自律循環、無動力ファーストフラッシュ、3段重力ろ過タワー、和紙RO膜支持体、12Vオフディレイ流水UV-C殺菌、非開削管路更生・地中空洞化根絶[cite: 9, 15]
+- ⚡ **[JIN-SPEC-2026-001: 自律分散エネルギー・通信防衛仕様書（V13.5）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/specs/JIN-SPEC-2026-001.md)**: チョークポイント・海底ケーブル無力化、ジン・ドラゴン電池V3路傍キオスク、和紙RO水循環直流直結、アフォーダビリティ防衛（Module A & D）
+- ⛏️ **[JIN-SPEC-2026-004: 都市鉱山・重要資源自律循環仕様（V13.5）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/specs/JIN_CRITICAL_MINERAL_CIRCULARITY_SPEC.md)**: E-waste常温バイオ浸出、海水NCO正極＆両面アルミ集電体（脱リチウム/コバルト/銅）、リン酸エステル化CNF（脱PFAS結着）、木質100%アモルセル®装甲、ZKパスポート（Module D）
+- 💧 **[JIN_WATER_INFRASTRUCTURE.md: 自律水利・上下水道主権防衛 ＆ シチズン・シールドMVP仕様書](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_WATER_INFRASTRUCTURE.md)**: 水道コンセッション阻止、生活排水・深層井戸ハイブリッド自律循環、無動力ファーストフラッシュ、3段重力ろ過タワー、和紙RO膜支持体、12Vオフディレイ流水UV-C殺菌、非開削管路更生・地中空洞化根絶
 - 🛣️ **[SPEC-004 / SPEC-088 / SPEC-007: 高機能・環境調和型「JIN-リビングロード」＆せせらぎ緑道共生ケアプラザ](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-004_PHYSICAL_ANCHOR_PROTOCOL.md)**: 遮熱・自己修復バイオ舗装、ペロブスカイト創エネ、非開削バイオグラウト充填、保護犬セラピー＆土木技術継承
 - 🌐 **[SPEC-000: 全惑星・地域自立分散循環統合マスター仕様書](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-000_PLANETARY_SOVEREIGN_CIRCULAR_SYNTHESIS.md)**: 全42大仕様書を結集した4層グランドトポロジー正典
 - ⚖️ **[specs/JIN_FRONTIER_LAW.md: JIN開拓地特別法](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/specs/JIN_FRONTIER_LAW.md)**: 漂泊の民の主権回復、AI公平裁判、受入自治体ゼロ・バーデン共生第VII章
@@ -246,7 +247,7 @@
 - ⚖️ **[SPEC-031_GOV: JIN-Autonomous Justice OS ＆ 客観事実検証プロトコル](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-031_JUSTICE_OS_TRUTH_VERIFICATION_PROTOCOL.md)**: 三層テレメトリ・Proof of Truth・制裁無力化・修復的正義執行
 - 📘 **[JIN-STRAT-UPD-2026-002: JIN-ORDER 戦略提言アップデート資料 2026秋](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/JIN-STRAT-UPD-2026-002.md)**: 螺旋の計・三極同盟・WIPO GREEN防壁公式提言
 - 🕊 **[JIN-DOC-2026-DISARM: 二大終末リスク同時解体白書](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/JIN_DOC_2026_DUAL_DISARMAMENT_DOCTRINE.md)**: 350億t代謝固定と原子力・核兵器の構造的兵糧攻め戦略
-- 🪐 **[JIN-DOC-2026-SPACE: 閉鎖宇宙環境完全自律循環生命維持アーキテクチャ白書](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/JIN_COSMIC_ECLSS_CLOSED_LOOP_ARCHITECTURE.md)**: ポストISS・アルテミス月面拠点、アモルセル®封止電池、AI排熱VMD純水ZLD、過塩素酸塩熱分解純酸素、コズミック・テラ・プレタ、20W耐EMP自律制御 (WIPO ID: 180061)[cite: 9]
+- 🪐 **[JIN-DOC-2026-SPACE: 閉鎖宇宙環境完全自律循環生命維持アーキテクチャ白書](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/JIN_COSMIC_ECLSS_CLOSED_LOOP_ARCHITECTURE.md)**: ポストISS・アルテミス月面拠点、アモルセル®封止電池、AI排熱VMD純水ZLD、過塩素酸塩熱分解純酸素、コズミック・テラ・プレタ、20W耐EMP自律制御 (WIPO ID: 180061)
 - 🌐 **[JIN-SPEC-2026-002: 空間等積記述及び自律機構境界管理仕様書](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/specs/JIN-SPEC-2026-002.md)**: 合意形成ロンダリング防止・B/C再算定監査・官民利益相反遮断、生活道路網強靭化・部門横断評価（Module C）
 - 🌊 **[JIN-SPEC-2026-003: 自律分散型水循環・土壌生態及び居住圏統合仕様](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/specs/JIN-SPEC-2026-003.md)**: 量子水循環・砂漠砂CSEB・シスターフッドPome金融
 - 🛑 **[JIN-SPEC-2026-005: 自律型AI安全停止・物理層強制介入仕様](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/specs/JIN_AI_SAFETY_OVERRIDE_PROTOCOL.md)**: 機械式光シャッター・独立電源リレー・三極多重合議
