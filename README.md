@@ -14,7 +14,7 @@
   - **Internet Archive (Wayback Machine):** [2026-10-29 確定公知タイムスタンプ](https://web.archive.org/web/20261029120036/https://github.com/masanotakashi0308-star/JIN-OS_GLOBAL_STRATEGY)
   - **Archive.today:** [2026-10-29 独立魚拓確定版 (ID:GoAja)](https://archive.li/GoAja)
   - **Software Heritage (UNESCO):** [Universal Code Commons Archive](https://www.softwareheritage.org/)
-  - **Zenodo DOI:** [10.5281/zenodo.23758251](https://doi.org/10.5281/zenodo.23758251) (Concept DOI: [10.5281/zenodo.22958158](https://doi.org/10.5281/zenodo.22958158))
+  - **Zenodo DOI:** [10.5281/zenodo.24044425](https://doi.org/10.5281/zenodo.24044425) (Concept DOI: [10.5281/zenodo.22958158](https://doi.org/10.5281/zenodo.22958158))
 
 ---
 
