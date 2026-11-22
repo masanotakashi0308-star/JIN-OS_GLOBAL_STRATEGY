@@ -12,8 +12,8 @@
 - 🏛️ **【先行技術防壁・世界魚拓多重台帳（Prior Art 永久証拠台帳）】**
   - **公的法人格（日本国法務省・国税庁）**: **一般社団法人JIN-ORDER（General Incorporated Association JIN-ORDER）** — 2026年11月5日 設立登記申請受理 ／ **2026年11月20日 横浜地方法務局 設立登記完了・国税庁 法人番号公表済（法人番号：`7020005017485` ／ 本店：神奈川県横浜市神奈川区西寺尾2丁目7番7号）**
   - **WIPO GREEN (国連世界知的所有権機関 - 全34先端技術登録・確定済 ＋ SPEC-040 / SPEC-039 Prior Art ＆ SPEC-036 V2.0 ＆ SPEC-033 V12.3 統合ポートフォリオ)**: [IDs: 179871〜180061 (Geneva Official Ledger)](https://wipogreen.wipo.int/wipogreen-database/articles/180061)
-  - **Internet Archive (Wayback Machine):** [2026-10-29 確定公知タイムスタンプ](https://web.archive.org/web/20261029120036/https://github.com/masanotakashi0308-star/JIN-OS_GLOBAL_STRATEGY)
-  - **Archive.today:** [2026-10-29 独立魚拓確定版 (ID:GoAja)](https://archive.li/GoAja)
+  - **Internet Archive (Wayback Machine):** [2026-11-22 確定公知タイムスタンプ](https://web.archive.org/web/20261122004517/https://github.com/masanotakashi0308-star/JIN-OS_GLOBAL_STRATEGY)
+  - **Archive.today:** [2026-11-22 独立魚拓確定版 (ID:Cf0Eb)](https://archive.li/Cf0Eb)
   - **Software Heritage (UNESCO):** [Universal Code Commons Archive](https://www.softwareheritage.org/)
   - **Zenodo DOI:** [10.5281/zenodo.24423495](https://doi.org/10.5281/zenodo.24423495) (Concept DOI: [10.5281/zenodo.22958158](https://doi.org/10.5281/zenodo.22958158))
 
